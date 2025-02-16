@@ -162,3 +162,49 @@ form button:hover {
 form button:active {
   background-color: #004085;
 }
+.speaks{
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+    align-content: center;
+}
+.speaks img{
+    border-radius: 20px;
+}
+.speak1{
+    margin-right: 10px;
+    word-wrap:normal;
+    width: 100px;
+    margin-right: 50px;
+
+}
+.speak2{
+    margin-right: 10px;
+    word-wrap:normal;
+    width: 100px;
+    margin-right: 50px;
+}
+.speak3{
+    margin-right: 10px;
+    word-wrap:normal;
+    width: 100px;
+    margin-right: 50px;
+}
+
+.speak4{
+    margin-right: 10px;
+    word-wrap:normal;
+    width: 100px;
+    margin-right: 50px;
+}
+.speak5{
+    margin-right: 10px;
+    word-wrap:normal;
+    width: 100px;
+}
+@media (max-width: 600px) {
+    .speaks{
+        flex-direction: column;
+    }
+}
