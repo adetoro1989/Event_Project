@@ -162,49 +162,82 @@ form button:hover {
 form button:active {
   background-color: #004085;
 }
-.speaks{
-    display: flex;
-    text-align: left;
-    padding: 10px;
-    margin: 30px;
-    align-content: center;
+.speaks {
+  display: flex;
+  text-align: left;
+  padding: 10px;
+  margin: 30px;
+  align-content: center;
 }
-.speaks img{
-    border-radius: 20px;
+.speaks img {
+  border-radius: 20px;
 }
-.speak1{
-    margin-right: 10px;
-    word-wrap:normal;
-    width: 100px;
-    margin-right: 50px;
-
+.speak1 {
+  margin-right: 10px;
+  word-wrap: normal;
+  width: 100px;
+  margin-right: 50px;
 }
-.speak2{
-    margin-right: 10px;
-    word-wrap:normal;
-    width: 100px;
-    margin-right: 50px;
+.speak1 a {
+  text-decoration: none;
+  color: #333;
 }
-.speak3{
-    margin-right: 10px;
-    word-wrap:normal;
-    width: 100px;
-    margin-right: 50px;
+.speak1 a:hover {
+  color: #4caf50;
 }
-
-.speak4{
-    margin-right: 10px;
-    word-wrap:normal;
-    width: 100px;
-    margin-right: 50px;
+.speak2 {
+  margin-right: 10px;
+  word-wrap: normal;
+  width: 100px;
+  margin-right: 50px;
 }
-.speak5{
-    margin-right: 10px;
-    word-wrap:normal;
-    width: 100px;
+.speak2 a {
+  text-decoration: none;
+  color: #333;
+}
+.speak2 a:hover {
+  color: #4caf50;
+}
+.speak3 {
+  margin-right: 10px;
+  word-wrap: normal;
+  width: 100px;
+  margin-right: 50px;
+}
+.speak3 a {
+  text-decoration: none;
+  color: #333;
+}
+.speak3 a:hover {
+  color: #4caf50;
+}
+.speak4 {
+  margin-right: 10px;
+  word-wrap: normal;
+  width: 100px;
+  margin-right: 50px;
+}
+.speak4 a {
+  text-decoration: none;
+  color: #333;
+}
+.speak4 a:hover {
+  color: #4caf50;
+}
+.speak5 {
+  margin-right: 10px;
+  word-wrap: normal;
+  width: 100px;
+}
+.speak5 a {
+  text-decoration: none;
+  color: #333;
+}
+.speak5 a:hover {
+  color: #4caf50;
 }
 @media (max-width: 600px) {
-    .speaks{
-        flex-direction: column;
-    }
+  .speaks {
+    flex-direction: column;
+  }
 }
