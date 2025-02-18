@@ -5,5 +5,5 @@
 # Task: Media Queries>>>>>> - Done
 # Task List: Tweak the speakers section into divs to carry thier pictures and names - Done
 # Create a form for event registration
-# See how we can later integrate JavaScript and some other interactivity
+# See how we can later integrate JavaScript and some other forms of interactivity
 # 
