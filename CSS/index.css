@@ -240,4 +240,9 @@ form button:active {
   .speaks {
     flex-direction: column;
   }
+  nav{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr;
+  }
 }

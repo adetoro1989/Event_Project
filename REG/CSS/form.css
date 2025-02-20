@@ -20,6 +20,34 @@ body {
     margin: 0;
     font-size: 2.5rem;
   }
+  nav {
+    background-color: #343a40;
+    /* Dark Gray */
+    text-align: center;
+    padding: 12px 0;
+  }
+  nav button {
+    height: 30px;
+    border: 2px;
+    margin-right: 10px;
+    border-radius: 10px;
+  }
+  nav a {
+    color: #4caf50;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+  }
+  
+  nav button:hover {
+    background-color: #4caf50;
+  }
+  
+  nav a:hover {
+    color: #ffffff;
+  }
   footer {
     background-color: #4caf50;
     color: white;
@@ -106,4 +134,20 @@ form button {
     text-align: center;
     margin-top: -30px;
     margin-bottom: 30px;
+  }
+  .option p{
+    text-align: left;
+    margin-left: -170px;
+    margin-bottom: -190px;
+  }
+
+  @media (max-width: 600px) {
+    form{
+        display: grid;
+        gap: 50px;
+        grid-template-columns: 1fr;
+    }
+   #sub{
+    width: 90%;
+   } 
   }
