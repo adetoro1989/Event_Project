@@ -150,4 +150,9 @@ form button {
    #sub{
     width: 90%;
    } 
+   .option p{
+    text-align: left;
+    margin-left: -170px;
+    margin-bottom: -190px;
+  }
   }
