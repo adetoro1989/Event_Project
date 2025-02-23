@@ -249,4 +249,7 @@ form button:active {
     gap: 10px;
     grid-template-columns: 1fr;
   }
+  #contact form{
+    margin-right: 20px;
+  }
 }
