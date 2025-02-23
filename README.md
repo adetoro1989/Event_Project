@@ -12,7 +12,7 @@ This repository contains my web development project as an aspiring Full Stack We
 - **Event Registration Form**: 
   - Create a form for event registration: Done (Up for Review)
 - **Speakers Section**:
-    - Combine all the Speakers DIVs and change them to inline-block: Up for Review
+    - Combine all the Speakers DIVs and change them to inline-block: Up for Review**
 - **Future Integrations**: 
   - Explore how to integrate JavaScript and other forms of interactivity.
 
