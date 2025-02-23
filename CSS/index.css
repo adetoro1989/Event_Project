@@ -170,17 +170,16 @@ form button:active {
   display: flex;
   text-align: left;
   padding: 10px;
-  margin: 30px;
+  margin: 40px;
   align-content: center;
 }
 .speaks img {
-  border-radius: 50%;
+  border-radius: 30%;
 }
 .speak1 {
-  margin-right: 10px;
   word-wrap: normal;
   width: 100px;
-  margin-right: 50px;
+  margin-right: 70px
 }
 .speak1 a {
   text-decoration: none;
@@ -190,10 +189,9 @@ form button:active {
   color: #4caf50;
 }
 .speak2 {
-  margin-right: 10px;
   word-wrap: normal;
   width: 100px;
-  margin-right: 50px;
+  margin-right: 70px;
 }
 .speak2 a {
   text-decoration: none;
@@ -203,10 +201,9 @@ form button:active {
   color: #4caf50;
 }
 .speak3 {
-  margin-right: 10px;
   word-wrap: normal;
   width: 100px;
-  margin-right: 50px;
+  margin-right: 70px;
 }
 .speak3 a {
   text-decoration: none;
@@ -216,10 +213,9 @@ form button:active {
   color: #4caf50;
 }
 .speak4 {
-  margin-right: 10px;
   word-wrap: normal;
   width: 100px;
-  margin-right: 50px;
+  margin-right: 70px;
 }
 .speak4 a {
   text-decoration: none;
