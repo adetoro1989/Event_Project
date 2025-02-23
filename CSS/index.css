@@ -1,5 +1,5 @@
 * {
-scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -240,12 +240,12 @@ form button:active {
   .speaks {
     flex-direction: column;
   }
-  nav{
+  nav {
     display: grid;
     gap: 10px;
     grid-template-columns: 1fr;
   }
-  #contact form{
+  #contact form {
     margin-right: 20px;
   }
 }
