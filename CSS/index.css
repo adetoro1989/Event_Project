@@ -169,8 +169,10 @@ form button:active {
 .speaks {
   display: flex;
   text-align: left;
-  padding: 10px;
-  margin: 40px;
+  padding: 5px;
+  margin-left: -50px;
+  margin-left: 9px;
+  width: auto;
   align-content: center;
 }
 .speaks img {
@@ -225,7 +227,7 @@ form button:active {
   color: #4caf50;
 }
 .speak5 {
-  margin-right: 10px;
+  margin-right: 70px;
   word-wrap: normal;
   width: 100px;
 }
@@ -239,6 +241,7 @@ form button:active {
 @media (max-width: 600px) {
   .speaks {
     flex-direction: column;
+    gap: 10px;
   }
   nav{
     display: grid;
