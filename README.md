@@ -19,6 +19,7 @@ This repository contains my web development project as an aspiring Full Stack We
 ## Updates
 We will keep updating this README as new tasks and ideas come up.
 ** I Added a sliding Carousel to showcase events Nigerian TechCon has organised in the past using bootstrap
+** I changed the Return to the top button.
 
 ---
 
