@@ -15,11 +15,13 @@ This repository contains my web development project as an aspiring Full Stack We
     - Combine all the Speakers DIVs and change them to inline-block: Up for Review**
 - **Future Integrations**: 
   - Explore how to integrate JavaScript and other forms of interactivity.
+- **Sliding Carousel**: Done
+  - Tunji Added a sliding Carousel to showcase events Nigerian TechCon has organised in the past using bootstrap.
+- **Return Button Update**: Done
+  - Tunji changed the Return to the top button.
 
 ## Updates
 We will keep updating this README as new tasks and ideas come up.
-** I Added a sliding Carousel to showcase events Nigerian TechCon has organised in the past using bootstrap
-** I changed the Return to the top button.
 
 ---
 
